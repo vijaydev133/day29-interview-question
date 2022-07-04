@@ -30,8 +30,3 @@
 // deleted when it is refreshed
 
 
-let arr = [1,4,7,9,6,4]
-
-let arr1 = arr.slice(0,3)
-
-console.log(arr1);
